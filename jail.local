@@ -1,0 +1,6 @@
+[cowrie]
+enabled  = true
+port     = 2222
+filter   = cowrie
+logpath  = /path/to/cowrie.log
+maxretry = 6
