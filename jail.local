@@ -5,7 +5,7 @@ filter   = cowrie
 logpath  = /path/to/cowrie.log
 # Ban after 20 retries
 maxretry = 20
-# Ban for 1 hour
-bantime  = 3600
+# Ban for 12 hours
+bantime  = 43200
 # Ban, if no of reties is reached in 12 hour window
 findtime = 43200
